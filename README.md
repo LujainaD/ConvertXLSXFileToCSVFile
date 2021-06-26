@@ -12,12 +12,12 @@ Technologies
 - Java 14
 - jar files should be added to lib file
 
-	commons-collections4-4.1.jar 
-	poi-3.17.jar 
-	poi-ooxml-3.17.jar 
-	poi-ooxml-schemas-3.17.jar 
-	xmlbeans-2.6.0.jar
-	opencsv-2.2.jar
+	-commons-collections4-4.1.jar 
+	-poi-3.17.jar 
+	-poi-ooxml-3.17.jar 
+	-poi-ooxml-schemas-3.17.jar 
+	-xmlbeans-2.6.0.jar
+	-opencsv-2.2.jar
 
 
 Instructions
