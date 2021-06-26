@@ -17,8 +17,7 @@ Technologies
 	poi-ooxml-3.17.jar \
 	poi-ooxml-schemas-3.17.jar \
 	xmlbeans-2.6.0.jar\
-	opencsv-2.2.jar \
-	\
+	opencsv-2.2.jar 
 
 
 Instructions
