@@ -28,6 +28,9 @@ Instructions
 
         File excelFile = new File("C:\\Users\\lujai\\OneDrive\\Documents\\new.xlsx");
         File excelFile = new File("file_Path\\name_of_Excel_file.xlsx");
+	
+- After converted the Excel file you will find a file called "CSVFile.cvs"
+
 
 
 
